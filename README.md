@@ -1,5 +1,5 @@
-# This is a social media platform using react js and firebase funtions.
-# Here you can upload profile picture, post screams (text), comment, like, and get notifications.
+# This is a social media platform using react js and firebase functions.
+# Here you can upload a profile picture, post screams (text), comment, like, and get notifications.
 
 # Live link -- https://social-media-7433e.web.app/
 
